@@ -1,6 +1,6 @@
 ### Enakshi Saha
 
-Homepage: https://sites.google.com/view/enakshi-saha
+Homepage: www.enakshisaha.com
 
 <!--
 **Enakshi-Saha/Enakshi-Saha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
